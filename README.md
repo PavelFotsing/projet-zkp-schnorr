@@ -75,12 +75,17 @@ Projet_ZKP/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/TON-USERNAME/projet-zkp-schnorr.git
+git clone https://github.com/PavelFotsing/projet-zkp-schnorr.git
 cd projet-zkp-schnorr
 
 # Installer les dépendances
 pip install pycryptodome
 ```
+
+
+
+
+
 
 > `tkinter` est inclus par défaut avec Python. Si absent : `sudo apt install python3-tk`
 
